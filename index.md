@@ -7,6 +7,7 @@ Each game has its own policy, because not every game collects the same things.
 ## Games
 
 - [A Mimicry of Life](a-mimicry-of-life/)
+- [The Reids](the-reids/)
 
 ## Contact
 
