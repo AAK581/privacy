@@ -8,6 +8,7 @@ Each game has its own policy, because not every game collects the same things.
 
 - [A Mimicry of Life](a-mimicry-of-life/)
 - [The Reids](the-reids/)
+- [From Boorhees, With Love](from-boorhees-with-love/)
 
 ## Contact
 
