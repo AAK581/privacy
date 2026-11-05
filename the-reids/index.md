@@ -1,6 +1,6 @@
 # Privacy Policy - The Reids
 
-Last updated: August 22, 2026
+Last updated: 5 November 2026
 
 The Reids ("the game") is developed by Doma (doma581). This policy
 explains what data the game handles.
@@ -12,17 +12,32 @@ server of my own. Your save files stay on your device.
 
 ## Data collected by Google
 
-The game shows **no ads**. It offers an optional, voluntary "Support the
-dev!" tip purchase through **Google Play Billing**. Purchases are processed
-entirely by Google Play over an encrypted (TLS) connection; I never see or
-store your payment details.
+The game shows ads using **Google AdMob**, and sells an optional one-time
+"Remove Ads" purchase through **Google Play Billing**. These Google services
+collect and share the following for advertising, analytics and fraud
+prevention:
 
-How Google uses data is described in the
-[Google Privacy Policy](https://policies.google.com/privacy).
+- IP address
+- In-app interactions (for example, that an ad was shown or tapped)
+- Diagnostic and crash information
+- Device and advertising identifiers
+
+All of it is sent over an encrypted (TLS) connection. Purchases are processed
+entirely by Google Play; I never see or store your payment details.
+
+How Google uses this data is described in the
+[Google Privacy Policy](https://policies.google.com/privacy) and
+[How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+
+You can reset or delete your advertising ID, or opt out of ad personalisation,
+in your Android settings under **Settings > Privacy > Ads**. Buying "Remove
+Ads" stops the game from requesting ads at all.
 
 ## Children
 
-The game is not directed at children and is not designed for users under 13.
+The game is made for a general audience, not specifically for children. Younger
+players may enjoy it too, but because it shows ads served by Google, a parent
+or guardian should decide whether it is right for a child under 13.
 
 ## Deleting your data
 

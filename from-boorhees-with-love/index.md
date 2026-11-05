@@ -1,6 +1,6 @@
 # Privacy Policy - From Boorhees, With Love
 
-Last updated: August 22, 2026
+Last updated: 5 November 2026
 
 From Boorhees, With Love ("the game") is developed by Doma (doma581). This policy
 explains what data the game handles.
@@ -22,7 +22,9 @@ How Google uses data is described in the
 
 ## Children
 
-The game is not directed at children and is not designed for users under 13.
+The game is made for a general audience, and younger players are welcome. It
+shows no ads, and I collect no data from anyone, including children. A parent
+or guardian should approve any purchase made by a child.
 
 ## Deleting your data
 

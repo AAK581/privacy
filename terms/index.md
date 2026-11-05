@@ -27,9 +27,10 @@ also apply.
 
 ## Age and content
 
-The games are not directed at children and are not designed for users under
-13. Some of them contain mature themes, so please check the age rating on the
-game's store listing before playing.
+Age ratings differ from game to game. Some games contain mature themes, while
+others are fine for younger players, so please check the rating on the game's
+store listing before playing. If a child is playing, a parent or guardian
+should decide whether the game is right for them and approve any purchase.
 
 ## Ads
 
