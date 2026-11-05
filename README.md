@@ -12,5 +12,12 @@ Published with GitHub Pages: https://aak581.github.io/privacy/
    Google cross-checks it against the Play Console Data safety form.
 3. Replace GAME NAME and DATE.
 4. Add a link to it in `index.md`.
-5. Commit and push. The page appears at
+5. Add the game's name to the list at the top of `terms/index.md`, and update
+   the date there.
+6. Commit and push. The page appears at
    https://aak581.github.io/privacy/<folder-name>/
+
+## Terms of Service
+
+One shared page covers every game: https://aak581.github.io/privacy/terms/
+It names each game, because Google Play wants terms that apply to the app.

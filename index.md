@@ -10,6 +10,10 @@ Each game has its own policy, because not every game collects the same things.
 - [The Reids](the-reids/)
 - [From Boorhees, With Love](from-boorhees-with-love/)
 
+## Terms of Service
+
+The same [Terms of Service](terms/) cover all of these games.
+
 ## Contact
 
 adhamakamel@gmail.com
